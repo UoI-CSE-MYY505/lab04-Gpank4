@@ -3,6 +3,7 @@
 
 .data
 
+
 maria:    .string "Maria"
 markos:   .string "Markos"
 marios:   .string "Marios"
